@@ -49,4 +49,16 @@ Sab se aam ghalti pehle prompt se **pehle** hoti hai: log likhna shuru kar dete 
 Sawal "kya AI yeh kar sakta hai?" nahi, balki **"kaunsa hissa AI kare, kaunsa main, aur kyun?"** hai.
 **Agent Factory mein:** problem awareness specification ban jati hai (maqsad, hadden, risk, "khatam" ki tareef), aur task delegation Digital FTE ki boundary ban jati hai: kya kar sakta hai, kya insaan ke paas rahe, kya escalate ho.
 **Exam tip:** scenario mein koi team seedha prompt likh kar AI se kaam shuru karwa deti hai aur nateeja business policy se takrata hai, to ghalti Delegation ki hai: pehle maqsad, hadd aur insaani faislay tay kiye jane chahiye the.
+//////////////////////////////I Fluency, Idea 4: Description (AI ko kya batana hai)
+Shuru wali colleague yaad karein: uska outline isliye ghalat tha ke aap ne zaroori maloomat nahi di thi. AI ke saath yeh masla zyada hai, kyunke woh sirf wohi jaanta hai jo uske paas ho, aur baaqi ka andaza lagata hai. Description ka matlab hai AI ko woh maloomat aur rehnumai dena jis se woh kaam theek kare. Yeh sirf achha prompt likhne se bada hai.
+Yaad rakhne ka tareeqa: What → How → How to work with me
+1. Product description (kya chahiye): output ki qism, audience, format, lambai, tone, zaroori topics, aur kya chhorna hai.
+Kamzor: "Is report ko summarize karo."
+Behtar: "Is quarterly report ko senior executives ke liye summarize karo jinke paas 10 minute hain. Revenue trends, bare risks aur recommended actions par focus karo. Chhote bullets, ek page. Jo figure pichle quarter se bohat badli ho use highlight karo. Accounting jargon se bacho."
+Dusra request zyada zaheen nahi, zyada mukammal hai. Mukammal hona chalaki se zyada ahem hai.
+2. Process description (kaise karna hai): steps, order, tareeqa, misalein, aur khatam karne se pehle checks. Misal: "Code ko pehle correctness, phir security, aakhir mein style ke liye review karo."
+Jab kaam kai marhalon ka ho (teen vendors ke proposals, compare, score, recommendation), to sab ek hi request mein mat do, kyunke phir sirf akhri nateeja check ho sakta hai. Har step alag karo aur agle se pehle check karo. Wohi step pehle rakho jahan ghalti sab se zyada phailti hai (jaise extraction, kyunke ghalat price comparison, scoring aur draft sab mein chali jati hai).
+3. Performance description (kaisa behave kare): aap ke saath AI ka andaz: mukhtasar ya tafseeli, supportive ya challenge karne wala, "pehle sawal poochho" ya "andaza laga kar chalo", shak batao ya sidhe jawab do. Misal: "Meri kamzor assumptions ko challenge karo, sirf tameez ke liye mujh se ittefaq mat karo."
+misaal:
+aap ne ek agent banaya jo aap ke bina hazaaron logon se baat karta hai. Un logon ne aap ki likhi hui hidayat kabhi dekhi nahi. Woh sirf yeh dekhte hain ke agent kaise behave karta hai. Agar hidayat kharab ho (jaise tutor agent jo talib-e-ilm ke koshish karne se pehle hi jawab bata de), to har user ko wohi kharab tajurba milta hai.
 
