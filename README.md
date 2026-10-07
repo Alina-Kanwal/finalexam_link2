@@ -61,4 +61,8 @@ Jab kaam kai marhalon ka ho (teen vendors ke proposals, compare, score, recommen
 3. Performance description (kaisa behave kare): aap ke saath AI ka andaz: mukhtasar ya tafseeli, supportive ya challenge karne wala, "pehle sawal poochho" ya "andaza laga kar chalo", shak batao ya sidhe jawab do. Misal: "Meri kamzor assumptions ko challenge karo, sirf tameez ke liye mujh se ittefaq mat karo."
 misaal:
 aap ne ek agent banaya jo aap ke bina hazaaron logon se baat karta hai. Un logon ne aap ki likhi hui hidayat kabhi dekhi nahi. Woh sirf yeh dekhte hain ke agent kaise behave karta hai. Agar hidayat kharab ho (jaise tutor agent jo talib-e-ilm ke koshish karne se pehle hi jawab bata de), to har user ko wohi kharab tajurba milta hai.
+Prompt engineering se context engineering tak: prompt engineering poochti hai "yeh message kaise likhoon?" Context engineering poochti hai "AI ko kamyab hone ke liye kaunsi maloomat chahiye?" (documents, misalein, memory, chat history, policies, tools, database records, definitions). Behtareen prompt bhi us agent ko nahi bacha sakta jis ke paas ghalat data ya zaroori rules na hon.
+
+Agent Factory mein: system prompt (har chat ke shuru mein padhi jane wali standing instruction) performance description ko mustaqil bana deta hai. SKILL.md process description ko dobara istemal ke qabil banata hai. System of Record domain ka ilm aur rules rakhta hai.
+
 
