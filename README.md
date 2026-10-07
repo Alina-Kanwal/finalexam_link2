@@ -64,5 +64,22 @@ aap ne ek agent banaya jo aap ke bina hazaaron logon se baat karta hai. Un logon
 Prompt engineering se context engineering tak: prompt engineering poochti hai "yeh message kaise likhoon?" Context engineering poochti hai "AI ko kamyab hone ke liye kaunsi maloomat chahiye?" (documents, misalein, memory, chat history, policies, tools, database records, definitions). Behtareen prompt bhi us agent ko nahi bacha sakta jis ke paas ghalat data ya zaroori rules na hon.
 
 Agent Factory mein: system prompt (har chat ke shuru mein padhi jane wali standing instruction) performance description ko mustaqil bana deta hai. SKILL.md process description ko dobara istemal ke qabil banata hai. System of Record domain ka ilm aur rules rakhta hai.
+Is tip ka matlab yeh hai ke jab AI ka nateeja kharab aaye, to dekhein ke **kaunsi Description ki kami thi.** Teen nishaniyan, teen wajahein:
+
+**1. Nateeja saaf likha hai, magar ghalat audience ya format ka → Product description ki kami.**
+Aap ne AI se report likhwayi, woh bohat achi likhi hai, magar woh PhD students ke liye hai jabki aap ke readers beginners hain. Ya aap ko table chahiye tha aur paragraphs aaye. Aap ne AI ko batayi hi nahi ke *kis ke liye* aur *kis shakal mein* chahiye.
+
+**2. Ek hi baar mein kai marhale kiye gaye aur sirf aakhri nateeja dekha gaya → Process description ki kami.**
+Teen vendors ke proposals diye, aur ek hi request mein kaha, "Extract karo, compare karo, score do, recommendation likho." Phir sirf recommendation parhi. Agar extraction mein ek price ghalat nikli, to woh compare, score aur recommendation sab mein chali gayi, aur akhir mein sab theek dikhta hai. Hal yeh tha ke har marhale alag karte aur agle se pehle check karte.
+
+**3. AI ne sirf tameez mein ittefaq kiya → Performance description ki kami.**
+Aap ne kamzor argument diya aur AI ne kaha "bohat achi baat hai." Aap ne usay nahi bataya tha ke "kamzor assumptions ko challenge karo." Isliye woh dostana tareeqe se sab maan gaya.
+
+**Tareeqa yaad rakhne ka:**
+- Ghalat **cheez** aayi → **Product** (kya chahiye).
+- Ghalat **tareeqe se** kaam hua → **Process** (kaise karna hai).
+- AI ka **behavior** theek nahi tha → **Performance** (kaisa behave kare).
+
+"Aage" likhein to Idea 5 (Discernment) shuru karta hoon.
 
 
