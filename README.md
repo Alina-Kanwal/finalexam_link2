@@ -31,3 +31,22 @@ Agency mein aap maqsad aur hadden deti hain, AI kai agle qadam khud chunta hai, 
 Koi tareeqa khud se behtar nahi, aur ek hi project mein teeno ho sakte hain: data extraction automation se, exceptions par augmentation se sochna, phir routine cases par agent ko limited ikhtiyar dena.
 Agent Factory mein: Mode 1 (general agents se masail hal karna) mein automation aur augmentation hain, aur Mode 2 (Digital FTEs banana) mein agency ko systematic banaya jata hai. Digital FTE sirf "AI kuch kar raha hai" nahi, balki AI jo ek job definition, permissions aur rules ke andar kaam karta hai.
 Exam tip: scenario mein AI maqsad ke mutabiq kaam kar raha hai magar ghalat hadd par ruka nahi, to yeh agency ka masla hai: maqsad ya boundary theek se bayan nahi hui. Aur agar sirf ek step kharab hua, to automation ka masla hai.
+//////////////////////////////////////////////////////////////**AI Fluency, Idea 3: Delegation (kaun kya karega, yeh faisla)**
+Sab se aam ghalti pehle prompt se **pehle** hoti hai: log likhna shuru kar dete hain bina yeh tay kiye ke kya chahiye, kaamyabi kaisi dikhti hai, kaunsa hissa AI karega, aur kaunse faislay kabhi AI ke paas nahi jane chahiyein. Delegation ka matlab sirf kaam AI ko dena nahi, balki **workflow ko design karna** hai.
+**Delegation ke teen hisse:**
+1. **Problem awareness:** maqsad aur kaam samajhna. Kis ke liye hai? Kamyabi kya hai? Kya ghalat ho sakta hai? Insaani faisla kahan zaroori hai?
+2. **Platform awareness:** kaun sa AI ya tool is kaam ke liye munasib hai. Mushkil multi-step masle ke liye reasoning model, taaza maloomat ke liye search wala assistant, software ke kaam ke liye coding agent, kai step wale kaam ke liye agent. Model ke naam yaad karne ki zaroorat nahi, aadat yeh banani hai ke "kya yeh tool is kaam ke liye theek hai?" poochein.
+3. **Task delegation:** kaam ko baant do.
+**Misal: overdue invoices ka agent.** Agar aap sirf likhein "invoice chase karne wala agent banao", to AI kuch bana dega, magar asli sawal baqi hain: kin customers ko contact karna hai? Kitne din late par? Kaisa lehja? Kitni raqam se upar insaan approve kare? Customer dispute kare to kya? Agent message bhej sakta hai ya sirf draft? Yeh prompting ke nahi, **business ke sawal** hain, aur AI aap ki policy khud tay nahi karta jab tak aap use woh ikhtiyar na dein.
+**Task delegation ki misal (course banana):**
+- Audience aur learning goals tay karna: **insaan** (maqsad aur judgment chahiye).
+- Course ke dhanchon ke options: **AI + insaan** (AI wusat deta hai, insaan chunta hai).
+- Tay shuda outline se sections ka pehla draft: **AI.**
+- Facts verify karna: **insaan** (zimmedari author ki hai).
+- Apna tajurba aur local misalein: **insaan.**
+- Grammar aur consistency: **AI.**
+- Final approval: **insaan** (naam aur saakh aap ki hai).
+Sawal "kya AI yeh kar sakta hai?" nahi, balki **"kaunsa hissa AI kare, kaunsa main, aur kyun?"** hai.
+**Agent Factory mein:** problem awareness specification ban jati hai (maqsad, hadden, risk, "khatam" ki tareef), aur task delegation Digital FTE ki boundary ban jati hai: kya kar sakta hai, kya insaan ke paas rahe, kya escalate ho.
+**Exam tip:** scenario mein koi team seedha prompt likh kar AI se kaam shuru karwa deti hai aur nateeja business policy se takrata hai, to ghalti Delegation ki hai: pehle maqsad, hadd aur insaani faislay tay kiye jane chahiye the.
+
