@@ -75,5 +75,33 @@ Aap ne kamzor argument diya aur AI ne kaha "bohat achi baat hai." Aap ne usay na
 - Ghalat **tareeqe se** kaam hua → **Process** (kaise karna hai).
 - AI ka **behavior** theek nahi tha → **Performance** (kaisa behave kare).
 "Aage" likhein to Idea 5 (Discernment) shuru karta hoon.
+//////////////////////////////////////////////////////////AI Fluency, Idea 5: Discernment (nateeje ko parkhna)
+AI aksar pur-yaqeen lagta hai. Ghalat jawab pe koi warning label nahi hota, woh bhi saaf, tafseeli aur yaqeen se bhara hota hai. Discernment yeh jaanchna hai ke AI ne kaam waqai theek kiya ya nahi (Description ka sawal tha “kya main ne theek se bataya?”). Automation bias insaan ka woh rujhan hai ke khud-kaar jawab ko zaroorat se zyada aasani se maan lena, khaas kar jab woh professional lage.
+Banawati jawab ki 4 nishaniyan:
+Zaroorat se zyada exact tafseel: aisa figure, tareekh ya citation jo aap ne diya hi nahi, jaise “Vendor A ne pichle saal 99.97% orders waqt par diye.” Exact number “check kiya hua” lagta hai, isliye source kholne se pehle dohrayen mat.
+Jahan expert jhijkta, wahan pura yaqeen: jis sawal par maahir kehta “depend karta hai”, wahan seedha “haan.” Poochein: kya badle to jawab badlega?
+Lambay output mein takrao: page 2 flat fee kehta hai, page 6 per-user fee se hisaab karta hai. Akhir ko shuru se milayein.
+Aisa kaam jo hua hi nahi: “mail bhej di,” “source check kar liya,” “tests chala liye.” Jab tak tool bheji hui mail, khula page ya test log na dikhaye, ise sirf ek jumla maanein.
+Discernment ke 3 hisse (Description ke jaise):
+1. Product discernment: nateeja kaisa hai? Kya factually sahi hai, har zaroori requirement poori hui, kuch chhoot to nahi gaya, andar se mel khata hai, kya expert ko qabil-e-yaqeen lagega, aur kya main apna naam laga sakti hoon? Aap ke domain ka ilm yahan kaam aata hai. Aur sirf jawab nahi, uski wajah bhi parkhein: assumptions, saboot, faislay ka paimana, hisaab. Agar jawab document se aana chahiye, to kahein: “Sirf attached proposals se jawab do, agar nahi likha to bolo nahi likha, aur har baat ke saath section aur sentence quote karo.”
+2. Process discernment: kya yeh tareeqa-e-kaar faida de raha hai? AI feedback par badal raha hai ya wapas wohi karta hai? Do baar theek ki hui ghalti dohra raha hai? Kya aap uska draft apne likhne se zyada edit kar rahi hain? Jab tareeqa kaam na kare to teen cheezein hain: performance description badlo, tool badlo, ya kaam wapas le lo.
+3. Performance discernment: AI logon ki theek khidmat kar raha hai?Misal:AI ke har jawab ka sahi hona kaafi nahi, yeh bhi dekhna hai ke woh logon ke liye faida mand hai ya nahi. Misal: tutor har sawal ka sahi jawab deta hai, magar student ke sochne se pehle hi bata deta hai, to student kuch seekhta nahi.
+Description aur Discernment ka loop: aap batati hain, AI banata hai, aap parakhti hain, batati hain kya badlana hai, AI dobara karta hai. Pehla jawab draft hota hai, aakhri nahi.
+Feedback ka tareeqa: Problem → Kyun zaroori → Direction.
+Kamzor: “Ghalat. Dobara karo.”
+Behtar: “Dusra section enterprise customers maanta hai. Hamari audience akele founders hain, isliye salah mehngi hai. Is section ko ek bande ke business ke liye limited budget mein dobara likho.”
+Har review teen mein se ek par khatam hota hai: kaam bhej do, feedback ke saath wapas bhejo, ya kaam wapas le lo. Naam pehle tay karein, taake “bas ek aur chhoti tabdeeli” ka chakkar na chale.
+Exam tip: scenario mein AI ka jawab achha lagta hai magar ek assumption ghalat hai, ya ek exact figure ka source nahi, to jawab hai: justification dekho, source kholo, aur sirf nateeje par bharosa mat karo.
+
+
+
+
+
+
+
+
+
+
+
 
 
