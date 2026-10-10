@@ -1,5 +1,7 @@
 # finalexam_link2
 **Ek line:** *Delegation = kaam ko insaan aur AI mein baantna.*
+**Escalate** ka matlab hai kisi masle ya faisle ko upar kisi aise insaan ke paas bhej dena jo us par faisla karne ka ikhtiyar rakhta hai.
+Misal: agent ko koi bari raqam ka unmatched item mile to woh khud faisla nahi karta, balki ek naamzad shakhs ko batata hai.
 Do log ek hi assistant, ek hi plan, ek hi subah kholte hain. Ek ko kaam ka nateeja milta hai, doosra khoobsurat nateeja phenk deta hai. Tool ne farq nahi kiya, un ke tareeqe ne.
 Course ek chhota experiment dikhata hai. Pehle likho: "Naye members ke liye welcome email likho." Phir naye chat mein likho: "Karachi ke ek chhote women's cycling club ke naye members ke liye welcome email likho. Zyada tar beginners hain jo traffic mein kabhi nahi chale. Garam aur halka mazaq, 150 words se kam, exclamation mark nahi." Model wohi hai, kaam wohi, lekin doosra email behtar hai kyunke aap ne woh batayi jo pehle mein nahi thi.
 AI fluency ka matlab hai AI ke saath 4 tareeqon se kaam karna:
