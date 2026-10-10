@@ -103,8 +103,7 @@ Redaction: naam aur ID jaisi pehchan hata do, magar kaam ka pattern rakho (jaise
 AI ko data dene se pehle pehchaan wali cheezein (naam, ID) hata dena, magar woh pattern rakhna jo kaam ko chahiye, jaise “ek student, marks 40-50, ek lab miss ki.”
 Zyada hata denge to AI ke paas likhne ko kuch nahi bachega. Kam hataenge to “week 3 ki lab miss karne wala akela student” jaisi tafseel se bhi koi pehchan sakta hai.
 ____Transparency diligence (kaam ke dauran): j
-Transparency diligence ka matlab yehi hai: jahan AI ka kaam kisi ki zindagi, naukri, marks ya paisa par asar dale, wahan us ko saaf batao ke AI shamil tha.
-Yaad rakhne ka asaan usool: jitna zyada asar, utna zyada batana.
+Transparency diligence ka matlab yehi hai: Transparency diligence ka matlab yehi hai: jahan AI ka kaam kisi ki zindagi, naukri, marks ya paisa par asar dale, wahan us ko saaf batao ke AI shamil tha.
 ____Deployment diligence (bhejne se pehle): jitne zyada log nateeja dekhenge, utna zyada check. Jo qadam wapas nahi ho sakta (payment, delete) uska check amal se pehle hota hai. Facts, sources, hisaab, bias, permissions, policy aur zaroorat par insaani approval dekho.
 ___Numbers ka usool: jis number par faisla tikta hai usay compute karo, AI se generate mat karwao, kyunke AI total ka andaza lagata hai. Spreadsheet, calculator ya wo code lo jo AI ne chalaya aur dikhaya, aur inputs (sahi rows, sahi rate) check karo.
 Jab maamla saaf na ho: chaar sawal poochein: kaun asar-andaz hota hai, kya ghalat ho sakta hai, munasib nateeja kaisa hota, aur kis ko kya batana hai. Jawab na de sakein to faisle ke malik ko escalate karein. Andaza lagana wohi option hai jo unclear maamle ko aap ki ghalti bana deta hai.
@@ -159,7 +158,32 @@ Kitab ka ek usool hai: kaam ka pehla 10% **sumat tay karna**, beech ka 80% **AI 
 - Pure 100% par Diligence chhaya rehta hai. Yeh aakhir mein sirf ek checkbox nahi.
 **Exam tip:** scenario mein poocha jaye ke kaam ke kis marhale mein kaunsa D sab se zyada kaam aata hai, to jawab yeh hai: shuruaat mein Delegation aur Description, beech mein Description aur Discernment ka loop, aakhir mein Discernment, aur Diligence har waqt. Agar demo achha dikha kar agent live kar diya jaye, to ghalti Discernment ki hai: purane trusted cases par test, aur "kamyab" lagne wale matches ki bhi review.
 "Aage" likhein to Idea 8 (beginners ki chaar aam ghaltiyan) shuru karta hoon, jo is course ka aakhri idea hai.
-//////////////////////////////////////////
+//////////////////////////////////////////AI Fluency, Idea 8: Beginners ki chaar aam ghaltiyan
+Aksar AI ke saath jo bhi cheez frustrating lagti hai, woh in chaar ghaltiyon mein se kisi ek ki wajah se hoti hai. Har ghalti mein ek alag D ghayab hota hai.
+Ghalti 1: Masla tay kiye bina prompt likhna.
+Aap likhna shuru kar deti hain bina yeh socche ke kamyabi kaisi dikhegi.
+Ghayab skill: Delegation.
+Hal: pehle maqsad, audience, hadden, aur insaan/AI ka batwara tay karein.
+Ghalti 2: Pehle jawab ko aakhri jawab samajhna.
+Kamzor pehla jawab dekh kar aap maan leti hain ke AI bekaar hai.
+Ghayab skill: Description aur Discernment ka loop.
+Hal: nateeja dekhein, specific feedback dein (Problem → Kyun zaroori → Direction), aur dobara koshish karwayein.
+Ghalti 3: Professional lagne wale jawab par bharosa karna.
+Aap zabaan ki saafai ko sahi hone ka saboot samajh leti hain.
+Ghayab skill: Discernment.
+Hal: ahem facts, assumptions, hisaab aur sources verify karein.
+Ghalti 4: Privacy aur zimmedari ka khayal tab aana jab masla ho jaye.
+Aap kaam poora karne par focus karti hain aur yeh nahi dekhti ke AI kaise istemal ho raha hai.
+Ghayab skill: Diligence.
+Hal: data, disclosure, approval aur zimmedari ke usool deploy karne se pehle tay karein.
+Yaad rakhne ka asaan tareeqa:
+Ghalat kaam shuru kiya → Delegation. Pehle jawab par ruk gayi → loop. Bharosa kar liya → Discernment. Parwah baad mein aayi → Diligence.
+Roz ka checklist (har chhote kaam ke liye zaroori nahi, bas aadat banane ke liye):
+Delegate: maqsad kya hai? AI kya kare? Mere paas kya rahe?
+Describe: AI ko kaunsa output, context, tareeqa aur behavior chahiye?
+Discern: kaise pata chalega ke jawab sahi, mukammal aur kaam ka hai?
+Be diligent: data mehfooz hai? AI ka kirdar batana zaroori hai? Kaun approve karta hai aur nateeje ka malik kaun?
+
 
 
 
